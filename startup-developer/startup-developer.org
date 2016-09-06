@@ -94,7 +94,7 @@ data structures and their relationships.
 #+ATTR_REVEAL: :frag (appear)
   * Polyglot
   * Functional Programming
-  * Data Structures
+  * Algorithms & Data Structures
   * Provision A Server
   * RESTFul API Design
   * TCP/IP
