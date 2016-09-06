@@ -1,0 +1,120 @@
+#+OPTIONS: toc:nil num:nil
+#+TITLE: Being A Developer At A Startup
+#+EMAIL: amartin@carecloud.com
+#+AUTHOR: Adrian Martin
+#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
+#+REVEAL_THEME: solarized
+#+REVEAL_TRANS: concave
+#+REVEAL_PLUGINS: (highlight)
+#+REVEAL_EXTRA_CSS: http://cdn.jsdelivr.net/reveal.js/3.0.0/lib/css/zenburn.css
+* About Me
+  Senior Software Engineer at CareCloud
+* CareCloud
+  World-class integrated cloud-based practice management and EHR
+  solution. 
+** Developer Life At CareCloud
+#+ATTR_REVEAL: :frag (appear)
+ * Engineering-focused
+ * Multiple Teams
+ * Agile
+ * Code Reviews
+** Technical Life At CareCloud
+*** Languages We Support
+#+ATTR_REVEAL: :frag (appear)
+    * Ruby
+    * JavaScript
+    * ActionScript
+    * Java
+    * Scala
+    * Objective-C
+    * Swift
+    * SQL
+    * Bash
+*** Frameworks & Systems
+#+ATTR_REVEAL: :frag (appear)
+   * AWS
+   * Ruby On Rails
+   * Flex
+   * NodeJS
+   * Akka
+   * Android / IOS
+   * PostgreSQL
+   * MongoDB
+   * New Relic
+*** AWS
+#+ATTR_REVEAL: :frag (appear)
+    * EC2
+    * EC2 Container Services
+    * S3
+    * ElasticBeanStalk 
+    * DynamoDB
+    * RDS
+    * Lambda
+    * Redshift
+    * ElastiCache
+    * CloudWatch 
+    * OpsWorks
+    * VPC
+    * Route53
+    * API Gateway
+*** Tools
+#+ATTR_REVEAL: :frag (appear)
+    * Good IDE
+    * Git
+    * Commandline-Fu 
+
+* Being A Developer At A Startup 
+  (or any other place where you happen to work)
+
+** Grok Your Surroundings
+#+ATTR_REVEAL: :frag (appear)
+  * Goals of the business
+  * Understand the environment dynamics
+  * Know how success is defined
+
+** Personal and Personable
+#+ATTR_REVEAL: :frag (appear)
+  * Observe and listen
+  * Always lend a hand
+  * Practice quiet leadership
+  * Learn to handle criticism
+  * Run from drama
+
+** You Are Never Done
+#+ATTR_REVEAL: :frag (appear)
+  * Continuous Learning
+  * Read Code
+  * Find A Mentor
+  * Deliberate Practice
+
+** What You Should Know (or Learn)
+Bad programmers worry about the code. Good programmers worry about
+data structures and their relationships. 
+~Linus Torvald
+#+ATTR_REVEAL: :frag (appear)
+  * Polyglot
+  * Functional Programming
+  * Data Structures
+  * Provision A Server
+  * RESTFul API Design
+  * TCP/IP
+  * Database Design
+  * Debugging
+  * Shell Scripting
+  * 12 Factor App
+  * OWASP
+
+** Good to Great Practices
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it.
+Geniuses remove it. 
+~Alan Perlis
+#+ATTR_REVEAL: :frag (appear)
+  * Test, test, test
+  * Estimate realistically
+  * Commit and commit often
+  * Simplicity over cleverness
+  * Document all the things
+* Fin
+  Thanks for listening
+ 
+  Questions?
